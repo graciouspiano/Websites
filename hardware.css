@@ -1,0 +1,65 @@
+
+#board{
+    width:250px;
+    
+}
+@-webkit-keyframes spinnow {
+    50% {
+        transform: rotate(360deg);
+        
+    }
+}
+#board:hover{
+ 
+    animation: 2s spinnow infinite ;
+    -moz-animation: 2s spinnow infinite ;
+    -webkit-animation: 2s spinnow infinite ;
+    -ms-animation: 2s spinnow infinite ;
+    
+
+}
+#cpu{
+    width:250px;
+    
+}
+#cpu:hover{
+     animation: 2s spinnow infinite ;
+    -moz-animation: 2s spinnow infinite ;
+    -webkit-animation: 2s spinnow infinite ;
+    -ms-animation: 2s spinnow infinite ;
+    
+}
+#videocard{
+    width:250px;
+}
+#videocard:hover{
+     animation: 2s spinnow infinite ;
+    -moz-animation: 2s spinnow infinite ;
+    -webkit-animation: 2s spinnow infinite ;
+    -ms-animation: 2s spinnow infinite ;
+    
+}
+#ram:hover{
+     animation: 2s spinnow infinite ;
+    -moz-animation: 2s spinnow infinite ;
+    -webkit-animation: 2s spinnow infinite ;
+    -ms-animation: 2s spinnow infinite ;
+    
+}
+#fans:hover{
+  animation: 2s spinnow infinite ;
+    -moz-animation: 2s spinnow infinite ;
+    -webkit-animation: 2s spinnow infinite ;
+    -ms-animation: 2s spinnow infinite ;
+}
+#monitor:hover{
+     animation: 2s spinnow infinite ;
+    -moz-animation: 2s spinnow infinite ;
+    -webkit-animation: 2s spinnow infinite ;
+    -ms-animation: 2s spinnow infinite ;
+}
+#powersupply:hover{
+     animation: 2s spinnow infinite ;
+    -moz-animation: 2s spinnow infinite ;
+    -webkit-animation: 2s spinnow infinite ;
+    -ms-animation: 2s spinnow infinite ;

@@ -1,0 +1,10 @@
+#catPic {
+  height:200px;
+  width:250px;
+  position:absolute;
+  visibility:hidden;
+}
+body {
+  background-image: url("http://thesmashable.com/wp-content/uploads/2013/05/free_wallpapers_free_nature_wallpapers_beautiful_nature_deskop_wallpapers_stunning_nature_desktop_background_wallpaper_free_nature_hd_wallpapers9.jpg") ;
+  overflow:hidden;
+}
